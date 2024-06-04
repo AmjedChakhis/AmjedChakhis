@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Amjed Chakhis  </h1>
-<h3 align="center"> A software engineering student with a passion for web development.<br> When I'm not busy writing code, you can find me debugging my life one bug at a time. 🚀💻</h3>
+<h3 align="center"> A software engineering student with a passion for Full Stack development.<br></h3>
 
 
 ##  Socials : 🌐
