@@ -5,7 +5,6 @@
 ##  Socials : 🌐
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:amjedchakhis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amjed-chakhis-7554bb273)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amjed.chk) 
 
 <h2 align="left">Skills : 💻</h3>
 <h3 align="left">- Programming Languages : 💻</h3>
